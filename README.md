@@ -1,2 +1,2 @@
 # Flask
-# install Flask, Flask-SQLAlchemy
+# install Flask, Flask-SQLAlchemy, Jinja2
