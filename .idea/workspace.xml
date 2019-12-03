@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1b9d0e6-f65d-41fd-8139-3bcf7a0a951a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.db" beforeDir="false" afterPath="$PROJECT_DIR$/test.db" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,23 +23,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RXARhxF7qYytwMEZSxAwKlyNKV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -71,6 +66,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -89,10 +96,61 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="364" y="251" width="768" height="431" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575378697198">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="364" y="251" width="768" height="431" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1373.873@67.27.1373.873" timestamp="1575378697198" />
+    <state x="486" y="166" width="524" height="601" key="FileChooserDialogImpl" timestamp="1575375831266">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="486" y="166" width="524" height="601" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1575375831266" />
+    <state width="1343" height="251" key="GridCell.Tab.0.bottom" timestamp="1575377312514">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1343" height="251" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1575377312514" />
+    <state width="1343" height="251" key="GridCell.Tab.0.center" timestamp="1575377312512">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1343" height="251" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1575377312512" />
+    <state width="1343" height="251" key="GridCell.Tab.0.left" timestamp="1575377312512">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1343" height="251" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1575377312512" />
+    <state width="1343" height="251" key="GridCell.Tab.0.right" timestamp="1575377312513">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1343" height="251" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1575377312513" />
+    <state width="1343" height="251" key="GridCell.Tab.1.bottom" timestamp="1575377312520">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1343" height="251" key="GridCell.Tab.1.bottom/67.27.1373.873@67.27.1373.873" timestamp="1575377312520" />
+    <state width="1343" height="251" key="GridCell.Tab.1.center" timestamp="1575377312518">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1343" height="251" key="GridCell.Tab.1.center/67.27.1373.873@67.27.1373.873" timestamp="1575377312518" />
+    <state width="1343" height="251" key="GridCell.Tab.1.left" timestamp="1575377312515">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1343" height="251" key="GridCell.Tab.1.left/67.27.1373.873@67.27.1373.873" timestamp="1575377312515" />
+    <state width="1343" height="251" key="GridCell.Tab.1.right" timestamp="1575377312518">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1343" height="251" key="GridCell.Tab.1.right/67.27.1373.873@67.27.1373.873" timestamp="1575377312518" />
+    <state x="129" y="27" width="1274" height="873" key="SettingsEditor" timestamp="1575378402988">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="129" y="27" width="1274" height="873" key="SettingsEditor/67.27.1373.873@67.27.1373.873" timestamp="1575378402988" />
   </component>
 </project>
