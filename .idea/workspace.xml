@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1b9d0e6-f65d-41fd-8139-3bcf7a0a951a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,10 +107,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="364" y="251" width="768" height="431" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575378697198">
+    <state x="364" y="251" width="820" height="438" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575383413855">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state x="364" y="251" width="768" height="431" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1373.873@67.27.1373.873" timestamp="1575378697198" />
+    <state x="364" y="251" width="820" height="438" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1373.873@67.27.1373.873" timestamp="1575383413855" />
     <state x="486" y="166" width="524" height="601" key="FileChooserDialogImpl" timestamp="1575375831266">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
@@ -148,9 +147,9 @@
       <screen x="67" y="27" width="1373" height="873" />
     </state>
     <state width="1343" height="251" key="GridCell.Tab.1.right/67.27.1373.873@67.27.1373.873" timestamp="1575377312518" />
-    <state x="129" y="27" width="1274" height="873" key="SettingsEditor" timestamp="1575378402988">
+    <state x="129" y="27" width="1274" height="873" key="SettingsEditor" timestamp="1575382847893">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state x="129" y="27" width="1274" height="873" key="SettingsEditor/67.27.1373.873@67.27.1373.873" timestamp="1575378402988" />
+    <state x="129" y="27" width="1274" height="873" key="SettingsEditor/67.27.1373.873@67.27.1373.873" timestamp="1575382847893" />
   </component>
 </project>
